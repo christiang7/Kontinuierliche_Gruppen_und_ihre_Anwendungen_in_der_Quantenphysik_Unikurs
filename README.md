@@ -2,4 +2,4 @@
 Course of Kontinuierliche Gruppen und ihre Anwendungen in der Quantenphysik of University Potsdam
 
 ## Books
-![IMG_20231018_133208.avif](IMG_20231018_133208.avif)
+![IMG_20231018_133208.png](IMG_20231018_133208.png)
